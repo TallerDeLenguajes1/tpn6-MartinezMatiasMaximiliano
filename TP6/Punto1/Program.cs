@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace TP6
+namespace Punto_1
 {
-    class Punto1
+    class Program
     {
         static void Main(string[] args)
         {
