@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repogit\\tpn6-MartinezMatiasMaximiliano\\TP6\\Punto1\\Punto1.csproj",
-      "projectName": "Punto1",
-      "projectPath": "C:\\Repogit\\tpn6-MartinezMatiasMaximiliano\\TP6\\Punto1\\Punto1.csproj",
+      "projectUniqueName": "C:\\Repogit\\tpn6-MartinezMatiasMaximiliano\\TP6\\Punto 4\\Punto 4.csproj",
+      "projectName": "Punto 4",
+      "projectPath": "C:\\Repogit\\tpn6-MartinezMatiasMaximiliano\\TP6\\Punto 4\\Punto 4.csproj",
       "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-      "outputPath": "C:\\Repogit\\tpn6-MartinezMatiasMaximiliano\\TP6\\Punto1\\obj\\",
+      "outputPath": "C:\\Repogit\\tpn6-MartinezMatiasMaximiliano\\TP6\\Punto 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",

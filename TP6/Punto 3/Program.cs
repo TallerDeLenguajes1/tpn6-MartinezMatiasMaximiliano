@@ -7,16 +7,16 @@ namespace Punto_3
     {
         static void Main(string[] args)
         {
-            float num1,num2;
+            float num1, num2;
             Console.WriteLine("Ingrese un numero: ");
             num1 = Convert.ToSingle(Console.ReadLine());
 
-            Console.WriteLine("Valor absoluto: [" + Math.Abs(num1) +"]");
-            Console.WriteLine("Cuadrado: [" + Math.Pow(num1,2) + "]");
-            Console.WriteLine("Raiz Cuadrada: [" + Math.Sqrt(num1) +"]");
+            Console.WriteLine("Valor absoluto: [" + Math.Abs(num1) + "]");
+            Console.WriteLine("Cuadrado: [" + Math.Pow(num1, 2) + "]");
+            Console.WriteLine("Raiz Cuadrada: [" + Math.Sqrt(num1) + "]");
             Console.WriteLine("Seno: [" + Math.Sin(num1) + "]");
             Console.WriteLine("Coseno: [" + Math.Cos(num1) + "]");
-            Console.WriteLine("Parte entera de un float: ["+ Math.Round(num1) + "]");
+            Console.WriteLine("Parte entera de un float: [" + Math.Round(num1) + "]");
 
 
 
